@@ -1,5 +1,4 @@
-## A mini project on DBMS.
-### It keeps a track of the orphanage data that is being updated, added and removed.  
+## A mini project on DBMS. 
 
 ## Snapshots of the project :
 <img width="500" alt="Login page" src="https://user-images.githubusercontent.com/76659793/232550006-470cd019-fa25-47a9-874f-b6374c18fa39.png">
